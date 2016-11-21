@@ -202,6 +202,1008 @@
           "tag": []
         }
       ]
+    },
+    {
+      "heading": "心法篇",
+      "background": "",
+      "list": [
+        {
+          "name": "Reset CSS – 重置歸零 – 網頁排版在各瀏覽器快速一致化 作者：飛肯",
+          "url": "http://www.flycan.com/article/css/reset-css-562.html",
+          "tag": []
+        },
+        {
+          "name": "給網頁設計師的建議 作者：even wu",
+          "url": "http://blog.evendesign.tw/post/38567423298/web-designer",
+          "tag": []
+        },
+        {
+          "name": "転転愛用的 Mac 前端小工具 2016",
+          "url": "https://tenten.co/blog/tenten-frontend-mac-apps-2016/",
+          "tag": []
+        },
+        {
+          "name": "網頁前端設計師的等級表",
+          "url": "http://sam0512.blogspot.tw/2010/07/blog-post_21.html",
+          "tag": []
+        },
+        {
+          "name": "提升撰寫HTML、DIV+CSS工作效率的六種方法",
+          "url": "http://sam0512.blogspot.tw/2012/09/csshtml.html",
+          "tag": []
+        },
+        {
+          "name": "前端廠商職缺面試文心得",
+          "url": "https://www.facebook.com/sfismy/posts/1190745267611783",
+          "tag": []
+        },
+        {
+          "name": "全職前端人員技能參考表",
+          "url": "https://onedrive.live.com/view.aspx?cid=8A8208A3F0FB3270&resid=8A8208A3F0FB3270%211197&app=Word&wdo=1",
+          "tag": []
+        },
+        {
+          "name": "如何提升網頁效能",
+          "url": "http://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/",
+          "tag": []
+        },
+        {
+          "name": "前端工程師面試問題集",
+          "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese-Traditional",
+          "tag": []
+        },
+        {
+          "name": "2014前端面試題目",
+          "url": "https://www.facebook.com/notes/raven-chen/%E9%9D%A2%E8%A9%A6-interview/777918558923906",
+          "tag": []
+        },
+        {
+          "name": "海外最全前端資源",
+          "url": "http://www.jeffjade.com/2016/03/30/104-front-end-tutorial/",
+          "tag": []
+        },
+        {
+          "name": "如何让你的网页打开速度降低到1s内",
+          "url": "http://www.jianshu.com/p/d857c3ff78d6",
+          "tag": []
+        }
+      ]
+    },
+    {
+      "heading": "HTML、CSS參考書單",
+      "background": "",
+      "list": [
+        {
+          "name": "HTML&CSS：網站設計建置優化之道",
+          "url": "http://www.books.com.tw/products/0010546014",
+          "tag": []
+        }
+      ]
+    },
+    {
+      "heading": "JS參考書單",
+      "background": "",
+      "list": [
+        {
+          "name": "JavaScript.tw 參考讀物清單",
+          "url": "https://docs.google.com/document/d/1PVhqArmOoTDrZ9KW2PheQNYd8-8m_Rbx6WtiKeQSupM/edit",
+          "tag": []
+        },
+        {
+          "name": "網路評價推薦書單",
+          "url": "https://www.facebook.com/groups/358503154261390/permalink/532791210165916/?stream_ref=3",
+          "tag": []
+        },
+        {
+          "name": "如何挑選 JS Framework",
+          "url": "http://gold.xitu.io/entry/581020b62f301e005c541af4",
+          "tag": []
+        }
+      ]
+    },
+    {
+      "heading": "高雄前端社群歷次聚會簡報",
+      "background": "",
+      "list": [
+        {
+          "name": "2013-05-11-如何逐步提升CSS的可利用性、模組化",
+          "url": "",
+          "tag": []
+        },
+        {
+          "name": "2013-06-29-現代化網頁基礎排版技術",
+          "url": "",
+          "tag": []
+        },
+        {
+          "name": "2013-08-10-SASS workshop",
+          "url": "",
+          "tag": []
+        },
+        {
+          "name": "2013-09-25-psdtohtml workshop",
+          "url": "",
+          "tag": []
+        },
+        {
+          "name": "2013-10-03-modular-maintainable-css-with-sass-and-compass",
+          "url": "",
+          "tag": []
+        },
+        {
+          "name": "2013-11-03-網頁編輯軟體開發流程交流聚會",
+          "url": "",
+          "tag": []
+        },
+        {
+          "name": "2013-12-08-絕對教會你jQuery動畫效果 - 簡報",
+          "url": "http://www.slideshare.net/sfismy/6-jquery?from_search=1",
+          "tag": []
+        },
+        {
+          "name": "2013-12-08-絕對教會你jQuery動畫效果 - DEMO",
+          "url": "http://codepen.io/Wcc723/pen/GmucH",
+          "tag": []
+        },
+        {
+          "name": "2014-01-26-前端小學堂",
+          "url": "https://docs.google.com/presentation/d/1994aiVagPhMsur4wIr-F3IbeL3q7MDxSdEqfX3Gp9-E/edit#slide=id.g2a346af50_344",
+          "tag": []
+        },
+        {
+          "name": "2014-04-20-前端圖形再進化 - 簡報一",
+          "url": "http://www.slideshare.net/sfismy/vertical-rhythm",
+          "tag": []
+        },
+        {
+          "name": "2014-04-20-前端圖形再進化 - 簡報二",
+          "url": "https://docs.google.com/presentation/d/18XigYnWkdpbEkSdS10edSWdvCXdoCZrTnRTpUjXYoiY/edit#slide=id.g2726cc59b_138",
+          "tag": []
+        },
+        {
+          "name": "2014-08-30 sketch",
+          "url": "",
+          "tag": []
+        },
+        {
+          "name": "2014-10-05-【媽我當駭客了！】 柯P野生官網API教學workshop",
+          "url": "",
+          "tag": []
+        },
+        {
+          "name": "2014-11-16 Susy2",
+          "url": "https://www.facebook.com/groups/358503154261390/permalink/624497197661983/",
+          "tag": []
+        },
+        {
+          "name": "2014-11-16 D3.js",
+          "url": "https://docs.google.com/presentation/d/182xz65Ebr_T5wUiEcnYLKi-O-4sMHfr_Z1gXe83XvPg/edit",
+          "tag": []
+        },
+        {
+          "name": "2015-01-18 Gulp.js",
+          "url": "",
+          "tag": []
+        },
+        {
+          "name": "2015-03-29 Github workshop",
+          "url": "",
+          "tag": []
+        },
+        {
+          "name": "2015-06-21 前端面試大補帖不求人！- 活動連結",
+          "url": "http://gonsakon-7655f2.kktix.cc/events/a5791ac5-f60f9c-cc9dec-eb381d",
+          "tag": []
+        },
+        {
+          "name": "2015-06-21 前端面試大補帖不求人！ - 簡報",
+          "url": "https://www.facebook.com/groups/358503154261390/permalink/725384857573216/",
+          "tag": []
+        },
+        {
+          "name": "2015-08-16 coffeescript",
+          "url": "http://www.slideshare.net/ssuser60dc67/coffee-script-51436386",
+          "tag": []
+        },
+        {
+          "name": "2015-08-16 Github Service",
+          "url": "http://www.slideshare.net/hungjie19/19-github-service",
+          "tag": []
+        },
+        {
+          "name": "2015-09-28 Node.js - 簡報",
+          "url": "https://goo.gl/uUCClW",
+          "tag": []
+        },
+        {
+          "name": "2015-09-28 Node.js - 範例檔案",
+          "url": "https://goo.gl/so3Nj7",
+          "tag": []
+        },{
+          "name": "2016012-06 React - 簡報",
+          "url": "http://goo.gl/7Lrqzx",
+          "tag": []
+        },
+        {
+          "name": "2016012-06 React - 範例檔案",
+          "url": "https://goo.gl/adl0kc",
+          "tag": []
+        },
+        {
+          "name": "2016-03-27 響應式網站設計實作坊",
+          "url": "http://www.slideshare.net/chihchengwang3/ss-60067482",
+          "tag": []
+        },{
+          "name": "2016-03-27 響應式網站設計實作坊 - hackpad",
+          "url": "https://csscollege.hackpad.com/327-RWD--orIWGAfGPvb",
+          "tag": []
+        },
+        {
+          "name": "2016-08-28 前端與 UI 真心合作的不二法門",
+          "url": "https://quip.com/7Vt4AiNImcbg",
+          "tag": []
+        }
+      ]
+    },
+    {
+      "heading": "網頁編輯軟體(sublime text 3)",
+      "list": [{
+          "name": "一小時上手 Sublime Text 3 網頁編輯器",
+          "url": "https://www.google.com/url?q=https://www.udemy.com/sublime-text-3/&sa=D&ust=1479720086710000&usg=AFQjCNH9ifpM8nV0IKJI4BmsYT-CExrqtA"
+      }, {
+          "name": "Sublime Text 3 新手上路：必要的安裝、設定與基本使用教學",
+          "url": "https://www.google.com/url?q=http://blog.miniasp.com/post/2014/01/07/Useful-tool-Sublime-Text-3-Quick-Start.aspx&sa=D&ust=1479720086711000&usg=AFQjCNF-zMXIfwS5_OkauYf47YMdxk6y5Q"
+      }, {
+          "name": "sublime text 2 中文教學手冊",
+          "url": "https://www.google.com/url?q=http://docs.sublimetext.tw/&sa=D&ust=1479720086711000&usg=AFQjCNFJ4P8z4vqCVIQS7TkpimSDENr2lw"
+      }, {
+          "name": "mrkt 的程式學習筆記: Sublime Text 2",
+          "url": "https://www.google.com/url?q=http://kevintsengtw.blogspot.tw/p/sublime-text-2.html%23.UY5ib7UyRHB&sa=D&ust=1479720086712000&usg=AFQjCNFUTVvGfcAf2vh-t0MElLhJpnjyhQ"
+      }, {
+          "name": "國外詳盡教學影片",
+          "url": "https://www.google.com/url?q=http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/&sa=D&ust=1479720086712000&usg=AFQjCNEVzb8qJxbcxA7sHJCcBoIxd2rzQg"
+      }, {
+          "name": "快捷鍵分享",
+          "url": "https://www.google.com/url?q=http://slid.es/gonsakon/5&sa=D&ust=1479720086713000&usg=AFQjCNGnvF52GGKhV5UvKKyaTFZFvcqkhA"
+      }, {
+          "name": "Sublime Text 3 Mac 指南",
+          "url": "https://www.google.com/url?q=http://code.kpman.cc/2014/10/14/sublime-text-3-mac-%25E6%258C%2587%25E5%258D%2597/&sa=D&ust=1479720086713000&usg=AFQjCNH3oXMraTh-5K2C4nlNmwRzxIcYtA"
+      }, {
+          "name": "Sublime text 極速應用教學",
+          "url": "https://www.google.com/url?q=http://www.slideshare.net/banPrint/sublime-text-51689543&sa=D&ust=1479720086714000&usg=AFQjCNGJ_fOmrXtvvwt0BrAnX8N85MQaxA"
+      }, {
+          "name": "How To Use SublimeLinter 3",
+          "url": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Du6fvJRao-E4&sa=D&ust=1479720086714000&usg=AFQjCNHYZtYcBcd3SnmEBI8-emEQJz2jzA"
+      }]
+  }, {
+      "heading": "SASS&Compass",
+      "list": [{
+          "name": "天掌握Sass",
+          "url": "https://www.google.com/url?q=http://ithelp.ithome.com.tw/ironman7/app/article/dev/recent/10161861&sa=D&ust=1479720086715000&usg=AFQjCNGR5RmdR-IcDQNMZ7hlp9Z3xgVYPw"
+      }, {
+          "name": "Sass&Compass安裝篇",
+          "url": "https://www.google.com/url?q=http://www.hannahpun.com/blog/scss_setup/&sa=D&ust=1479720086716000&usg=AFQjCNHifULyLvMJKTsH87t7Sd5kirHX7Q"
+      }, {
+          "name": "Sass&Compass投影片教學",
+          "url": "https://www.google.com/url?q=https://speakerdeck.com/imathis/sass-compass-the-future-of-stylesheets-now&sa=D&ust=1479720086716000&usg=AFQjCNEY2YlaK0wyxYPpOGguFt7ot41FDw"
+      }, {
+          "name": "超讚Sass樣式表",
+          "url": "https://www.google.com/url?q=https://github.com/hlb/sass-doc-zh/blob/master/SASS_REFERENCE_ZH_TW.md&sa=D&ust=1479720086717000&usg=AFQjCNGEbSEHiO3e9-a9xgkals0GZKcSCg"
+      }, {
+          "name": "Sass國外教學影片",
+          "url": "https://www.google.com/url?q=http://leveluptuts.com/tutorials/Sass-Tutorials&sa=D&ust=1479720086717000&usg=AFQjCNEVuwnRwgh6uyJoXtUZa8HdPWnT-w"
+      }, {
+          "name": "Sass&Compass經典投影片",
+          "url": "https://www.google.com/url?q=http://blog.wu-boy.com/2011/11/the-future-of-stylesheets-sass-compass/&sa=D&ust=1479720086718000&usg=AFQjCNGykbPZSzAfU7ntycDixc5UPIYKog"
+      }, {
+          "name": "Button Sass Framework",
+          "url": "https://www.google.com/url?q=http://alexwolfe.github.io/Buttons/index.html%23&sa=D&ust=1479720086718000&usg=AFQjCNHFwWHHtdZvPjAGtd9FOGwJUcZKSw"
+      }, {
+          "name": "Sass Conf 2014資源",
+          "url": "https://www.google.com/url?q=https://www.facebook.com/groups/358503154261390/permalink/615495841895452/&sa=D&ust=1479720086719000&usg=AFQjCNFmOp43ZYiKSLKQWpI5bXsR8ura3w"
+      }]
+  }, {
+      "heading": "前端資料總匯",
+      "list": [{
+          "name": "Frontend style guides",
+          "url": "https://www.google.com/url?q=https://github.com/astanush/ux/blob/master/style-guides.md%23frontend-style-guides&sa=D&ust=1479720086720000&usg=AFQjCNHHmoUC-Ta69ABNdnn2F5XFCPQbXg"
+      }, {
+          "name": "前端書籤",
+          "url": "https://www.google.com/url?q=https://github.com/dypsilon/frontend-dev-bookmarks&sa=D&ust=1479720086720000&usg=AFQjCNELejTsV0X-1Gr51a1ZDixEiRFI6A"
+      }, {
+          "name": "無障礙網頁規範",
+          "url": "https://www.google.com/url?q=http://www.ogcio.gov.hk/tc/community/web_accessibility/handbook/index.htm&sa=D&ust=1479720086721000&usg=AFQjCNHqrUSoGWTNzFmiOY6ynkudZvMp5w"
+      }, {
+          "name": "Google效能優化建議",
+          "url": "https://www.google.com/url?q=https://developers.google.com/web/fundamentals/documentation/performance/critical-rendering-path/index&sa=D&ust=1479720086721000&usg=AFQjCNGNxQ3aEc3__bIsXUFJZFeP62jnIQ"
+      }, {
+          "name": "設計師必備資源總匯",
+          "url": "https://www.google.com/url?q=http://resources.ogdesign.tw/&sa=D&ust=1479720086722000&usg=AFQjCNFwyXbHha_PHsLyb-oUCW0WX1SO7w"
+      }]
+  }, {
+      "heading": "Javascript教學",
+      "list": [{
+          "name": "JavaScript - 基礎課程",
+          "url": "https://www.google.com/url?q=http://www.takka.com.hk/jstutor/jsindex.htm&sa=D&ust=1479720086722000&usg=AFQjCNExqWcFtRe0bHtRteTSCnXrt9qJew"
+      }, {
+          "name": "JavaScript 教學系列整理",
+          "url": "https://www.google.com/url?q=http://ithelp.ithome.com.tw/question/10098361&sa=D&ust=1479720086723000&usg=AFQjCNGuhfjZG8WB8iw2dU5QpgnGGfybKA"
+      }, {
+          "name": "JavaScript 标准参考教程",
+          "url": "https://www.google.com/url?q=http://javascript.ruanyifeng.com/&sa=D&ust=1479720086723000&usg=AFQjCNF0yNEo3YZenMxwFU-ZS1H-gcpYLQ"
+      }, {
+          "name": "JS判斷式",
+          "url": "https://www.google.com/url?q=http://zero.milosz.ca/&sa=D&ust=1479720086724000&usg=AFQjCNH6HHFaLYB4meKxlDLAJHAG8Xl6ww"
+      }, {
+          "name": "閉包觀念\n                    \n                        demo",
+          "url": "https://www.google.com/url?q=http://coolshell.cn/articles/6731.html&sa=D&ust=1479720086724000&usg=AFQjCNFEYoqItW0Eb1USgYdgCmkW63Z8nA"
+      }, {
+          "name": "prototype\n                    \n                        prototype2",
+          "url": "https://www.google.com/url?q=http://my.oschina.net/u/992034/blog/170656&sa=D&ust=1479720086725000&usg=AFQjCNEoyszgCcCPSbRG4uynKc0m_e3Xvg"
+      }, {
+          "name": "javascript blog",
+          "url": "https://www.google.com/url?q=http://www.cnblogs.com/yanhaijing/&sa=D&ust=1479720086726000&usg=AFQjCNGsMm4Zj7hwCvSElz8gm46ZxrsnfQ"
+      }, {
+          "name": "The Right Way",
+          "url": "https://www.google.com/url?q=http://jstherightway.org/&sa=D&ust=1479720086726000&usg=AFQjCNEjGoeDDWu0SNGua0WZW3EMRgVmaQ"
+      }, {
+          "name": "equals signs for JavaScript equality testing",
+          "url": "https://www.google.com/url?q=http://dorey.github.io/JavaScript-Equality-Table/&sa=D&ust=1479720086727000&usg=AFQjCNF5NT0uxPly3rUPQRj7ipqg_Uc_-A"
+      }, {
+          "name": "Planning A Front-end JavaScript Application",
+          "url": "https://www.google.com/url?q=http://developer.telerik.com/featured/planning-front-end-javascript-application/&sa=D&ust=1479720086727000&usg=AFQjCNFuPoJ-BxFSoR0J8x4dmlYZr61q4A"
+      }, {
+          "name": "理解RESTFul架构",
+          "url": "https://www.google.com/url?q=http://mccxj.github.io/blog/20130530_introduce-to-rest.html&sa=D&ust=1479720086728000&usg=AFQjCNHIeU93NrznmRtskDZGXj85dSgIsw"
+      }]
+  }, {
+      "heading": "Javascript功能",
+      "list": [{
+          "name": "XML to json",
+          "url": "https://www.google.com/url?q=http://www.fyneworks.com/jquery/xml-to-json/&sa=D&ust=1479720086729000&usg=AFQjCNEqcXG9rBRZT4qU_uINTwmid97pww"
+      }, {
+          "name": "XML to excel",
+          "url": "https://www.google.com/url?q=http://openxmldeveloper.org/&sa=D&ust=1479720086729000&usg=AFQjCNG3YQzjMy9I0937qDkJ0YcXoKcwgg"
+      }, {
+          "name": "JavaScript Kinetic Scrolling",
+          "url": "https://www.google.com/url?q=http://ariya.ofilabs.com/2014/01/javascript-kinetic-scrolling-part-5-cover-flow-effect.html&sa=D&ust=1479720086730000&usg=AFQjCNFvbuB7lRiC-O89lfSajoXlo1CFuQ"
+      }, {
+          "name": "JSON to CSV/Excel Convert",
+          "url": "https://www.google.com/url?q=http://jsfiddle.net/hybrid13i/JXrwM/&sa=D&ust=1479720086730000&usg=AFQjCNHXornyOdWxxVYlBDkOCYMpbEI4dQ"
+      }, {
+          "name": "如何找到綁定效果的DOM元素",
+          "url": "https://www.google.com/url?q=http://www.cnblogs.com/coffeedeveloper/archive/2013/04/19/3029922.html&sa=D&ust=1479720086730000&usg=AFQjCNE0klWZnUW6Bb577gQn6nBPPl9XDw"
+      }, {
+          "name": "閉包觀念",
+          "url": "https://www.google.com/url?q=http://jsbin.com/gocixomoma/1/edit?html,js,console&sa=D&ust=1479720086731000&usg=AFQjCNGYYpnNcu1BUNZ6Kx1jrhhVsXlF2w"
+      }]
+  }, {
+      "heading": "Javascript ES6",
+      "list": [{
+          "name": "ECMAScript 6 入门",
+          "url": "https://www.google.com/url?q=http://es6.ruanyifeng.com/&sa=D&ust=1479720086732000&usg=AFQjCNE1Trx2PfFlToLc-5R5r3FaYL2NRQ"
+      }, {
+          "name": "learn-es2015",
+          "url": "https://www.google.com/url?q=https://babeljs.io/docs/learn-es2015/&sa=D&ust=1479720086732000&usg=AFQjCNGg4d82Oq-tBHvgolENT7XqNzD27A"
+      }, {
+          "name": "JavaScript 模块化七日谈",
+          "url": "https://www.google.com/url?q=http://huangxuan.me/js-module-7day/%23/&sa=D&ust=1479720086733000&usg=AFQjCNGeUmm3S15QlfIWCl_HSb-2W0238A"
+      }]
+  }, {
+      "heading": "Angular.js教學",
+      "list": [{
+          "name": "英文教學影片",
+          "url": "https://www.google.com/url?q=http://egghead.io/&sa=D&ust=1479720086736000&usg=AFQjCNFVNawZUZqVhi_YdYJPzDF-G65eMg"
+      }, {
+          "name": "ng-animation",
+          "url": "https://www.google.com/url?q=http://dl.dropboxusercontent.com/u/24421764/Website/Projects/ngAnimate/index.html&sa=D&ust=1479720086737000&usg=AFQjCNEFhqkhT3ko80TMTlOb-4bcqR1nPA"
+      }, {
+          "name": "angular簡報 - Lion",
+          "url": "https://www.google.com/url?q=http://slid.es/lionlai/angularjs&sa=D&ust=1479720086737000&usg=AFQjCNFAosbybkz3i_8HjizoY_PLQo15ow"
+      }, {
+          "name": "有jQuery背景，该如何用AngularJS编程思想？",
+          "url": "https://www.google.com/url?q=http://blog.jobbole.com/46589/&sa=D&ust=1479720086738000&usg=AFQjCNH_4rUwLzCQYcjsvKp6sjv1OqXkZw"
+      }, {
+          "name": "60分鐘學習ANGULAR",
+          "url": "https://www.google.com/url?q=http://weblogs.asp.net/dwahlin/archive/2013/07/30/angularjs-in-60-ish-minutes-the-ebook.aspx&sa=D&ust=1479720086738000&usg=AFQjCNF4b8VGJ0rXiKrY52A4SH7U8-PwsQ"
+      }, {
+          "name": "angular 教學資源",
+          "url": "https://www.google.com/url?q=https://github.com/jmcunningham/AngularJS-Learning&sa=D&ust=1479720086739000&usg=AFQjCNF2x8CzhfCi-57btzjg39iD1iPlpg"
+      }]
+  }, {
+      "heading": "Jquery教學",
+      "list": [{
+          "name": "jQuery 教學 - jQuery Tutorial",
+          "url": "https://www.google.com/url?q=http://webdesign.kerthis.com/jquery/&sa=D&ust=1479720086740000&usg=AFQjCNGO2fVPTOmXrtybhj14cHmZAPTRyA"
+      }, {
+          "name": "簡體中文API查表",
+          "url": "https://www.google.com/url?q=http://www.css88.com/jqapi-1.9/&sa=D&ust=1479720086740000&usg=AFQjCNH9Kpdx3EKgjTJPsJNy4synFweW8g"
+      }, {
+          "name": "API查詢表1",
+          "url": "https://www.google.com/url?q=http://oscarotero.com/jquery/&sa=D&ust=1479720086741000&usg=AFQjCNF8zpJRTNmAE_sDHm0CvCvloh7Mkw"
+      }, {
+          "name": "API查詢表2",
+          "url": "https://www.google.com/url?q=http://overapi.com/jquery/&sa=D&ust=1479720086741000&usg=AFQjCNGevns1yRze_M6g7RrF2g73HuES7Q"
+      }, {
+          "name": "30天學會jquery",
+          "url": "https://www.google.com/url?q=https://tutsplus.com/course/30-days-to-learn-jquery/&sa=D&ust=1479720086741000&usg=AFQjCNEZsLP5qO8qANQxvqQhF4uYTuQBzw"
+      }, {
+          "name": "jQuery教學大全",
+          "url": "https://www.google.com/url?q=http://blog.jobbole.com/53544/&sa=D&ust=1479720086742000&usg=AFQjCNG5gnT8Ojne_zJhLIWo-2Pd6SZvBg"
+      }, {
+          "name": "codeschool中文翻譯",
+          "url": "https://www.google.com/url?q=http://blog.jobbole.com/37699/&sa=D&ust=1479720086742000&usg=AFQjCNH9vzz6nWrpenft5xXrkIg3xr0-Jw"
+      }, {
+          "name": "你可能不需要 jQuery！使用原生 JavaScript 进行开发",
+          "url": "https://www.google.com/url?q=http://youmightnotneedjquery.com/&sa=D&ust=1479720086743000&usg=AFQjCNEhPoEWVYWLmT4paplgUAZlQi4GJA"
+      }]
+  }, {
+      "heading": "React",
+      "list": [{
+          "name": "React 中文版教學",
+          "url": "https://www.google.com/url?q=http://wiki.jikexueyuan.com/project/react/&sa=D&ust=1479720086744000&usg=AFQjCNHJRnpl36-O_LzU_WPF8blMCmuEgg"
+      }, {
+          "name": "React 翻譯文件",
+          "url": "https://www.google.com/url?q=http://reactjs.cn/react/docs/tutorial.html&sa=D&ust=1479720086744000&usg=AFQjCNFy7wrfu_mpsmlayi1MylC7Z4tyrw"
+      }, {
+          "name": "React 30天教學",
+          "url": "https://www.google.com/url?q=https://mdev.hackpad.com/React-30-Day-by-andyyu0920-L9XT16XqYDj&sa=D&ust=1479720086745000&usg=AFQjCNFUL2NQ_TPTh9aNnlYBAHfpkNzHjA"
+      }, {
+          "name": "使用 React 和 Webpack 构建静态网站",
+          "url": "https://www.google.com/url?q=http://www.oschina.net/translate/react-static-site&sa=D&ust=1479720086745000&usg=AFQjCNE5vlg4y7XWs3rShHDO7FDG_brTcQ"
+      }, {
+          "name": "初探 React.js：JSX v.s. React.DOM",
+          "url": "https://www.google.com/url?q=http://rockonyu.logdown.com/posts/249060-a-preliminary-study-on-reactjs-jsx-vs-react-dom&sa=D&ust=1479720086746000&usg=AFQjCNFFYVq3FHVhke-_fXPKXqJp7sqC6g"
+      }, {
+          "name": "從學 Redux",
+          "url": "https://www.google.com/url?q=http://andyyou.github.io/javascript,/react,/redux/2016/01/04/redux.html&sa=D&ust=1479720086746000&usg=AFQjCNEyC9p_5b42Jjzsyz3mBU4CuAYZvQ"
+      }, {
+          "name": "redux繁中",
+          "url": "https://www.google.com/url?q=http://chentsulin.github.io/redux/index.html&sa=D&ust=1479720086747000&usg=AFQjCNFYfcBeRPDmz9UpJqoP_DkqWuzeKQ"
+      }]
+  }, {
+      "heading": "coffeescript",
+      "list": [{
+          "name": "Web Development with CoffeeScript and Sass",
+          "url": "https://www.google.com/url?q=http://www.slideshare.net/napcs/web-development-with-coffeescript-and-sass&sa=D&ust=1479720086750000&usg=AFQjCNFjEDEGDT7eSAtMu5D-N68Cnj-vmA"
+      }, {
+          "name": "CoffeeScript by kvzhuang",
+          "url": "https://www.google.com/url?q=https://speakerdeck.com/kvzhuang/coffeescript&sa=D&ust=1479720086750000&usg=AFQjCNGW-Rvvcwk8VX3wIA5H4__T0kxfcA"
+      }]
+  }, {
+      "heading": "CSS觀念",
+      "list": [{
+          "name": "CSS設計原則",
+          "url": "https://www.google.com/url?q=https://github.com/doggy8088/CSS-Guidelines&sa=D&ust=1479720086751000&usg=AFQjCNEz3A1pRv2kDlVNInTkoaP63DLI3Q"
+      }, {
+          "name": "CSS: The Good Parts",
+          "url": "https://www.google.com/url?q=http://blog.ponyfoo.com/2014/05/17/css-the-good-parts&sa=D&ust=1479720086752000&usg=AFQjCNHTKlTP8KK2E2_J2Pmn0QhTbiF4Vg"
+      }, {
+          "name": "前端資源大全",
+          "url": "https://www.google.com/url?q=http://uptodate.frontendrescue.org/&sa=D&ust=1479720086753000&usg=AFQjCNH2Msw5FN-GxbjwdDv9EV1tKQJskA"
+      }, {
+          "name": "CSS参考手册",
+          "url": "https://www.google.com/url?q=http://css.doyoe.com/&sa=D&ust=1479720086753000&usg=AFQjCNENoiMi-nEmSbbNbH14HGjJxmBL1w"
+      }, {
+          "name": "CSS分享部落格",
+          "url": "https://www.google.com/url?q=http://ashareaday.wcc.tw/%232013-11-14&sa=D&ust=1479720086754000&usg=AFQjCNFulSa2oeO79TMw-UQTahYyOZKZrw"
+      }, {
+          "name": "網頁排版之垂直韻律篇(Vertical rhythm)",
+          "url": "https://www.google.com/url?q=https://www.facebook.com/groups/358503154261390/permalink/526174247494279/?stream_ref%3D3&sa=D&ust=1479720086754000&usg=AFQjCNGWmckZtsV5YPzPBbSepCpAZ5ndKA"
+      }]
+  }, {
+      "heading": "CSS設計模式",
+      "list": [{
+          "name": "SMACSS",
+          "url": "https://www.google.com/url?q=http://smacss.com/&sa=D&ust=1479720086755000&usg=AFQjCNEawz5-Y3shHJDvE_aGp3vu_dqMrw"
+      }, {
+          "name": "OOCSS",
+          "url": "https://www.google.com/url?q=http://oocss.org/&sa=D&ust=1479720086756000&usg=AFQjCNEacYn3w0zWr7LbiQSD4jZVVmbJVg"
+      }, {
+          "name": "MVCSS",
+          "url": "https://www.google.com/url?q=http://mvcss.ycnets.com/&sa=D&ust=1479720086756000&usg=AFQjCNHCyF2-JaqsNTzDHV1_8TgvfXwWlw"
+      }]
+  }, {
+      "heading": "CSS小技巧",
+      "list": [{
+          "name": "CSS垂直置中",
+          "url": "https://www.google.com/url?q=http://blog.wu-boy.com/2013/07/css-vertical-align-center/&sa=D&ust=1479720086757000&usg=AFQjCNFbAKU7NjwvodkYvWykD-UbsvKYcw"
+      }, {
+          "name": "CSS垂直置中2",
+          "url": "https://www.google.com/url?q=http://www.smashingmagazine.com/2013/08/09/absolute-horizontal-vertical-centering-css/&sa=D&ust=1479720086757000&usg=AFQjCNFzzf75cRrgAzDCbbTcnsVsSqy3Gg"
+      }, {
+          "name": "CSS水平垂直置中",
+          "url": "https://www.google.com/url?q=http://coding.smashingmagazine.com/2013/08/09/absolute-horizontal-vertical-centering-css/&sa=D&ust=1479720086758000&usg=AFQjCNFsFpvxCKzvKtDSC3EGAzR66v-0Lw"
+      }, {
+          "name": "CSS文字斷行調整",
+          "url": "https://www.google.com/url?q=http://blog.zhusee.in/post/166392/experiments-on-manual-chinese-japanese-responsive-line-breakhttp://blog.zhusee.in/post/166392/experiments-on-manual-chinese-japanese-responsive-line-break&sa=D&ust=1479720086759000&usg=AFQjCNGRP86p775qg8i7dSixlF1qEH3WTw"
+      }, {
+          "name": "CSS選擇器",
+          "url": "https://www.google.com/url?q=http://www.cnblogs.com/yanhaijing/p/3496480.html&sa=D&ust=1479720086759000&usg=AFQjCNF-sIyOcx2iWLgdqgcpUYIB1lPJaw"
+      }, {
+          "name": "圖片取代文字",
+          "url": "https://www.google.com/url?q=https://www.facebook.com/groups/358503154261390/permalink/634608156650887/&sa=D&ust=1479720086760000&usg=AFQjCNG80V3OgDUwVyfRuvHQO-Y4roEGCg"
+      }, {
+          "name": "Module 開發 - Adorn Form Elements",
+          "url": "https://www.google.com/url?q=https://www.facebook.com/notes/paul-li/module-%25E9%2596%258B%25E7%2599%25BC-adorn-form-elements/10152201825497211&sa=D&ust=1479720086760000&usg=AFQjCNFdQb7p7rA4FkSSbdipt38wJ1_Xwg"
+      }]
+  }, {
+      "heading": "CSS3",
+      "list": [{
+          "name": "CSS3 transition、animation介紹",
+          "url": "https://www.google.com/url?q=http://www.openfoundry.org/tw/tech-column/9233-css3-animation&sa=D&ust=1479720086761000&usg=AFQjCNHckLUfow3TS630WK-_MC2mH13kcQ"
+      }, {
+          "name": "CSS3 transition、漸層animation詳解",
+          "url": "https://www.google.com/url?q=http://www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html&sa=D&ust=1479720086761000&usg=AFQjCNGSDJZDVrIoyDhas8ijDfD2jTpIhA"
+      }, {
+          "name": "CSS3功能與速查表",
+          "url": "https://www.google.com/url?q=http://www.createcss3.com/&sa=D&ust=1479720086762000&usg=AFQjCNHntLz_wc42F9bLEOITsHiT_b8i9g"
+      }, {
+          "name": "各種文字hover過後的效果",
+          "url": "https://www.google.com/url?q=http://tympanus.net/Development/CreativeLinkEffects/%23cl-effect-1&sa=D&ust=1479720086762000&usg=AFQjCNHTa1LiVurXY1up3GQxx7PdBRtKIQ"
+      }, {
+          "name": "CSS3 Hover效果",
+          "url": "https://www.google.com/url?q=http://gudh.github.io/ihover/dist/index.html&sa=D&ust=1479720086763000&usg=AFQjCNHzEuew3KVyvSjDbwfru__dvMQDVA"
+      }, {
+          "name": "迅雷CSS3 動畫設計流程分享",
+          "url": "https://www.google.com/url?q=http://cued.xunlei.com/log068&sa=D&ust=1479720086763000&usg=AFQjCNEL479wk0_6exeSwWivrnf5XnCo7g"
+      }, {
+          "name": "Loading 3D BUTTON",
+          "url": "https://www.google.com/url?q=http://tympanus.net/Development/ProgressButtonStyles/&sa=D&ust=1479720086764000&usg=AFQjCNGF510Iul2wQdmAhPjxhFE7dJHhRQ"
+      }]
+  }, {
+      "heading": "CSS3 web font",
+      "list": [{
+          "name": "查詢字體網站 (圖搜尋字體)",
+          "url": "https://www.google.com/url?q=http://www.myfonts.com/WhatTheFont/&sa=D&ust=1479720086764000&usg=AFQjCNFWeiG-4wNHPnL8l0L2tFrMQxtv-g"
+      }]
+  }, {
+      "heading": "CSS 電子報版型建置",
+      "list": [{
+          "name": "電子報網頁版型設計建議",
+          "url": "https://www.google.com/url?q=http://blog.miniasp.com/post/2007/11/Recommandation-on-e-Newsletter-Template-design.aspx&sa=D&ust=1479720086765000&usg=AFQjCNHGF3j-AjN6qP9nDutMvMti2D5NSA"
+      }, {
+          "name": "html電子報設計原則整理(edm design rules)",
+          "url": "https://www.google.com/url?q=http://blog.yam.com/hanasan/article/56605300&sa=D&ust=1479720086765000&usg=AFQjCNER-nh_XsdWa3rG7mixsfZWZaD_YQ"
+      }, {
+          "name": "電子報一次就上手",
+          "url": "https://www.google.com/url?q=http://5945.tw/blog/2013/04/29/rd%25E6%25B0%25B4%25E9%259B%25BB%25E5%25B7%25A5%25E4%25B8%258D%25E6%259C%2583%25E4%25BF%25AE%25E6%25B0%25B4%25E7%25AE%25A1-%25E9%259B%25BB%25E5%25AD%2590%25E5%25A0%25B1%25E4%25B8%2580%25E6%25AC%25A1%25E5%25B0%25B1%25E4%25B8%258A%25E6%2589%258B/&sa=D&ust=1479720086766000&usg=AFQjCNHdzakBKnOdSeX3wnnMkO3yxfvZIg"
+      }, {
+          "name": "電子報的版型越來越難設計了",
+          "url": "https://www.google.com/url?q=http://blog.miniasp.com/post/2008/11/14/edm-enewsletter-epaper-are-more-difficult-to-design-HTML-css.aspx&sa=D&ust=1479720086767000&usg=AFQjCNGzptrtmI-Eq0VKKuxJMceWjbTAEw"
+      }, {
+          "name": "Responsive eDM 模板製作指南",
+          "url": "https://www.google.com/url?q=http://email-marketing-blog.ufosend.com/2014/03/responsive-edm.html&sa=D&ust=1479720086767000&usg=AFQjCNH_7273aOnvPyhQxqKNMPkNOPPCOA"
+      }, {
+          "name": "responsive-email-template",
+          "url": "https://www.google.com/url?q=https://github.com/randylien/responsive-email-template&sa=D&ust=1479720086767000&usg=AFQjCNGj6nDsrqC6oN_vhd1-2g-GGlRy5A"
+      }]
+  }, {
+      "heading": "mobile position fixed",
+      "list": [{
+          "name": "Fixed Positioning in Mobile Browsers",
+          "url": "https://www.google.com/url?q=http://bradfrostweb.com/blog/mobile/fixed-position/&sa=D&ust=1479720086768000&usg=AFQjCNG4bcT2bLHdq2lzhEe8IcM7128bLA"
+      }, {
+          "name": "CSS: Should we be using fixed position elements in our layouts?",
+          "url": "https://www.google.com/url?q=https://news.layervault.com/stories/11232-css-should-we-be-using-fixed-position-elements-in-our-layouts&sa=D&ust=1479720086769000&usg=AFQjCNFCRld8qO3CcAlbuQyqPqPZHAS-RQ"
+      }, {
+          "name": "移动浏览器对CSS之position:fixed支持总\n                    \n                        结",
+          "url": "https://www.google.com/url?q=http://bradfrostweb.com/blog/mobile/fixed-position/&sa=D&ust=1479720086769000&usg=AFQjCNF51dKhnGgJhmMJT7bcn9GXfu7vlQ"
+      }, {
+          "name": "Super simple off-canvas navigation",
+          "url": "https://www.google.com/url?q=http://blog.tomri.ch/super-simple-off-canvas-menu-navigation/&sa=D&ust=1479720086770000&usg=AFQjCNG3vK_8747WYyegSzn9CghEPOG30Q"
+      }, {
+          "name": "http://lifeaustin.com/",
+          "url": "https://www.google.com/url?q=http://lifeaustin.com/cycle/%23&sa=D&ust=1479720086770000&usg=AFQjCNGTPv53PuB-RlMcbMlpcDHCTDduig"
+      }, {
+          "name": "http://jsfiddle.net/Sbt75/49/",
+          "url": "https://www.google.com/url?q=http://jsfiddle.net/Sbt75/49/&sa=D&ust=1479720086771000&usg=AFQjCNGTSmHDaob1mUVFAXhYQZfcK5KKHg"
+      }, {
+          "name": "Easy CSS fix for fixed positioning on Android 2.2 and 2.3",
+          "url": "https://www.google.com/url?q=http://benfrain.com/easy-css-fix-fixed-positioning-android-2-2-2-3/&sa=D&ust=1479720086771000&usg=AFQjCNFX7gcvY4b496fCAGaTbRBpWYkGMw"
+      }, {
+          "name": "移动端web页面应用position:fixed题目总结",
+          "url": "https://www.google.com/url?q=http://www.binvor.com/a/xinxizhongxin/wangluokaifajishu/2013/0706/16570.html&sa=D&ust=1479720086772000&usg=AFQjCNH4UsEkemtFrYhwjQ9pyHj9IIJOhA"
+      }]
+  }, {
+      "heading": "RWD",
+      "list": [{
+          "name": "什麼是Responsive Web Design(RWD)？",
+          "url": "https://www.google.com/url?q=https://speakerdeck.com/h0design/responsive-web-design&sa=D&ust=1479720086773000&usg=AFQjCNF8cldCoU11-MzK_u8hnp0nY52-nA"
+      }, {
+          "name": "Responsive Resources",
+          "url": "https://www.google.com/url?q=http://bradfrost.github.io/this-is-responsive/resources.html&sa=D&ust=1479720086773000&usg=AFQjCNFRypPUdJSL-iV3F57xqWSLf_36rg"
+      }, {
+          "name": "http://www.slideshare.net/irishstu1/responsive-web-design-workshop-23467099",
+          "url": "https://www.google.com/url?q=http://www.slideshare.net/irishstu1/responsive-web-design-workshop-23467099&sa=D&ust=1479720086774000&usg=AFQjCNFLM32tEaErc6mgCLtSFcIukt--LA"
+      }, {
+          "name": "Sass image compiler",
+          "url": "https://www.google.com/url?q=http://corner.squareup.com/2013/08/responsive-images-with-apropos.html&sa=D&ust=1479720086774000&usg=AFQjCNHGZOZnOaAOdDg94E-QC0OoJMrtqQ"
+      }, {
+          "name": "如何在电脑上测试手机网站",
+          "url": "https://www.google.com/url?q=http://blog.jobbole.com/60176/&sa=D&ust=1479720086775000&usg=AFQjCNHZA47Q-MJ8-JAz_vjG17KebeeIkA"
+      }, {
+          "name": "A simple guide to responsive design.",
+          "url": "https://www.google.com/url?q=http://www.adamkaplan.me/grid/&sa=D&ust=1479720086775000&usg=AFQjCNEtHw-DoUlfGnVyCautAevnq8TNLA"
+      }, {
+          "name": "fastclick- clear 300ms touched",
+          "url": "https://www.google.com/url?q=https://github.com/ftlabs/fastclick&sa=D&ust=1479720086776000&usg=AFQjCNEqU-kmXMIRaoN0xFQqkLTkxF1rEg"
+      }]
+  }, {
+      "heading": "RWD網站收集",
+      "list": [{
+          "name": "awwwards",
+          "url": "https://www.google.com/url?q=http://www.awwwards.com/websites/responsive-design/&sa=D&ust=1479720086776000&usg=AFQjCNExYZzEIGGbPK6eHL8tZKORitvn_w"
+      }, {
+          "name": "mediaquer",
+          "url": "https://www.google.com/url?q=http://mediaqueri.es/&sa=D&ust=1479720086777000&usg=AFQjCNFCrD6kDAboNmK5I6VLBKPa_8zz9w"
+      }, {
+          "name": "Responsive Templates",
+          "url": "https://www.google.com/url?q=http://www.templatemonster.com/properties/features/responsive-design/&sa=D&ust=1479720086777000&usg=AFQjCNFcNd-TvXrEgyC7r2iQCfmdIAv8jA"
+      }, {
+          "name": "日本RWD網站匯集",
+          "url": "https://www.google.com/url?q=http://responsive-jp.com/&sa=D&ust=1479720086778000&usg=AFQjCNFIqt10IAv_muXUdPuteHLh4qAH5g"
+      }]
+  }, {
+      "heading": "CSS觀念",
+      "list": [{
+          "name": "CSS設計原則",
+          "url": "https://www.google.com/url?q=https://github.com/doggy8088/CSS-Guidelines&sa=D&ust=1479720086779000&usg=AFQjCNGgSfFC5Q40JAPcLKrC43lou03pyA"
+      }, {
+          "name": "前端資源大全",
+          "url": "https://www.google.com/url?q=http://uptodate.frontendrescue.org/&sa=D&ust=1479720086779000&usg=AFQjCNFarpED8l0NIHJc9auyr48YOV7vQw"
+      }, {
+          "name": "CSS参考手册",
+          "url": "https://www.google.com/url?q=http://css.doyoe.com/&sa=D&ust=1479720086780000&usg=AFQjCNHhVyuf0Rf5mgkag57jojsvBWVk2Q"
+      }]
+  }, {
+      "heading": "Git版本控制系統",
+      "list": [{
+          "name": "30天精通Git版本控管",
+          "url": "https://www.google.com/url?q=http://ithelp.ithome.com.tw/ironman6/player/doggy/dev/3&sa=D&ust=1479720086780000&usg=AFQjCNHo8cR4j3KQnPSH1YgSd9Dsn06wVA"
+      }, {
+          "name": "猴子都能懂的Git入門",
+          "url": "https://www.google.com/url?q=http://backlogtool.com/git-guide/cn/&sa=D&ust=1479720086781000&usg=AFQjCNHo4hR4VQnLmGrHRmHY8d2pOi3N2g"
+      }, {
+          "name": "pro git 教學手冊",
+          "url": "https://www.google.com/url?q=http://iissnan.com/progit/index.zh-tw.html&sa=D&ust=1479720086781000&usg=AFQjCNEcnW-Pz8iRich9oUPzBy47-CP4sQ"
+      }, {
+          "name": "如何將專案上傳至Github",
+          "url": "https://www.google.com/url?q=http://pulipuli.blogspot.tw/2013/02/github-part2.html&sa=D&ust=1479720086782000&usg=AFQjCNGzNVDMcBPRxzL_4o_9pnh72__gkw"
+      }, {
+          "name": "Git远程操作详解",
+          "url": "https://www.google.com/url?q=http://www.ruanyifeng.com/blog/2014/06/git_remote.html&sa=D&ust=1479720086782000&usg=AFQjCNE-lE3g9PhdMED1c8me0mDOoXguLQ"
+      }, {
+          "name": "常用 Git 命令清单",
+          "url": "https://www.google.com/url?q=http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html&sa=D&ust=1479720086783000&usg=AFQjCNGZ7aosOx3YT_ElIFzKAXHUKerU7Q"
+      }, {
+          "name": "Git教學簡報",
+          "url": "https://www.google.com/url?q=http://www.slideshare.net/littlebtc/git-5528339&sa=D&ust=1479720086783000&usg=AFQjCNG1Bhk17Q6Nw0KrlTWoDYjruZtc3Q"
+      }, {
+          "name": "Github教學",
+          "url": "https://www.google.com/url?q=http://ihower.tw/git/&sa=D&ust=1479720086784000&usg=AFQjCNFcmghZ5Jko0vZbEwcCB5Z0xEcSLA"
+      }, {
+          "name": "开发者日常使用的 Git 命令",
+          "url": "https://www.google.com/url?q=http://blog.jobbole.com/54184/&sa=D&ust=1479720086784000&usg=AFQjCNGp_VpHqAhQVSB7a0ykj9tHk5bdOA"
+      }, {
+          "name": "遷移 Git 遠端儲存庫的 3 種方法與注意事項",
+          "url": "https://www.google.com/url?q=http://blog.miniasp.com/post/2014/03/27/Move-Git-repository-from-one-to-another.aspx&sa=D&ust=1479720086785000&usg=AFQjCNE3lYzXWA9B6iUYuKsu2JjF9pE7LA"
+      }, {
+          "name": "線上學習Git操作",
+          "url": "https://www.google.com/url?q=http://try.github.io/levels/1/challenges/1&sa=D&ust=1479720086786000&usg=AFQjCNEgsB2D4qzd5RAEA-Lg4jKoOPRWoA"
+      }, {
+          "name": "git流程教學",
+          "url": "https://www.google.com/url?q=https://gitimmersion-apputu.rhcloud.com/lab_01.html&sa=D&ust=1479720086786000&usg=AFQjCNHKGrOqG_pHE4vaT7rANDyU_3qjSg"
+      }, {
+          "name": "線上學習Git操作2- D3.JS",
+          "url": "https://www.google.com/url?q=http://www.wei-wang.com/ExplainGitWithD3/&sa=D&ust=1479720086787000&usg=AFQjCNHfqVX9sh737Gh8MEdw5BVb2zQJmw"
+      }, {
+          "name": "git - 简易指南",
+          "url": "https://www.google.com/url?q=http://rogerdudler.github.io/git-guide/index.zh.html&sa=D&ust=1479720086787000&usg=AFQjCNEwphpnITnUHgYXxycTn2TVAq_f4Q"
+      }, {
+          "name": "git snippet",
+          "url": "https://www.google.com/url?q=https://blog.longwin.com.tw/2009/05/git-learn-initial-command-2009/&sa=D&ust=1479720086788000&usg=AFQjCNFNJDOkhxl2TqaNnoAZlUa5bWrTqA"
+      }]
+  }, {
+      "heading": "前端框架",
+      "list": [{
+          "name": "bootstrap",
+          "url": "https://www.google.com/url?q=http://www.bootcss.com/&sa=D&ust=1479720086789000&usg=AFQjCNEtFCyYaksSTmXiIKN5PMqcKlsTtg"
+      }, {
+          "name": "bootstrap bootsnipp",
+          "url": "https://www.google.com/url?q=http://bootsnipp.com/&sa=D&ust=1479720086789000&usg=AFQjCNEIohlI2nIWNStWQwOA_TQb4Qkkjw"
+      }, {
+          "name": "bootstrap online service",
+          "url": "https://www.google.com/url?q=http://www.ibootstrap.cn/&sa=D&ust=1479720086789000&usg=AFQjCNHtZjO_BlC8wY0ajw7oy7y3hfwWgA"
+      }, {
+          "name": "bootstrap中文教學",
+          "url": "https://www.google.com/url?q=http://kkbruce.tw/&sa=D&ust=1479720086790000&usg=AFQjCNGudWPy-dmjrYDW-EgJvG5Qvxfy5A"
+      }]
+  }, {
+      "heading": "kendoui hybrid app framework",
+      "list": [{
+          "name": "kendo ui 影片教學",
+          "url": "https://www.google.com/url?q=http://www.evget.com/article/2014/3/31/20754.html&sa=D&ust=1479720086791000&usg=AFQjCNF4J9cNDnmFw8J8pd1hvaT6MUmmCg"
+      }, {
+          "name": "Kendo 开发教程",
+          "url": "https://www.google.com/url?q=http://blog.csdn.net/mapdigit/article/details/10018657&sa=D&ust=1479720086791000&usg=AFQjCNG_DSEqH455wmvmMmFw0WYsd_pHeA"
+      }, {
+          "name": "swipe left",
+          "url": "https://www.google.com/url?q=http://www.telerik.com/forums/touch-gesture-support-for-kendo-ui-web&sa=D&ust=1479720086792000&usg=AFQjCNGs31Yb-hpAzZXl2ofQZfRe5tLCXA"
+      }]
+  }, {
+      "heading": "PhoneGap API",
+      "list": [{
+          "name": "Phonegap",
+          "url": "https://www.google.com/url?q=http://www.html5rocks.com/zh/tutorials/file/filesystem/%23toc-introduction&sa=D&ust=1479720086792000&usg=AFQjCNFBODsx4UHAYZFrLIqVWafZ7z-RNA"
+      }, {
+          "name": "localstorage",
+          "url": "https://www.google.com/url?q=http://www.cnblogs.com/xiaowei0705/archive/2011/04/19/2021372.html&sa=D&ust=1479720086793000&usg=AFQjCNFRT_Dv-wDHNOeMBcGoWVK7B4PoMA"
+      }, {
+          "name": "jqmobile效能調整",
+          "url": "https://www.google.com/url?q=http://www.gajotres.net/document-onpageinit-vs-document-ready/&sa=D&ust=1479720086793000&usg=AFQjCNHscNJsuu3Dlt32J79WfCVvvkXByw"
+      }, {
+          "name": "jQuery Mobile, PhoneGap, and the Camera Device",
+          "url": "https://www.google.com/url?q=http://therockncoder.blogspot.tw/2012/07/jquery-mobile-phonegap-and-camera.html&sa=D&ust=1479720086794000&usg=AFQjCNFg3vWSsE2mRCz8CDrx2rzwSrx33w"
+      }, {
+          "name": "mobile framework",
+          "url": "https://www.google.com/url?q=http://www.gajotres.net/&sa=D&ust=1479720086794000&usg=AFQjCNHXpDK2VKa-xSLZ3H6OJ9BR5PhDWA"
+      }, {
+          "name": "使用 PhoneGap、jQuery Mobile 與台北市政府開放資料",
+          "url": "https://www.google.com/url?q=http://blog.changyy.org/2011/09/android-phonegapjquery-mobile-open-data.html&sa=D&ust=1479720086795000&usg=AFQjCNGlvJEWnicx1NJGfi2f0uLNGg2HIQ"
+      }, {
+          "name": "大陸教學資源",
+          "url": "https://www.google.com/url?q=http://www.html5cn.org/portal.php?mod%3Dlist%26catid%3D64%26page%3D1&sa=D&ust=1479720086795000&usg=AFQjCNH1lyqasV5E-z-oiWtftjzVFd49Dw"
+      }, {
+          "name": "Phonegap InAppBrowser display pdf 2.7.0",
+          "url": "https://www.google.com/url?q=http://stackoverflow.com/questions/16795172/phonegap-inappbrowser-display-pdf-2-7-0/16836723%2316836723&sa=D&ust=1479720086796000&usg=AFQjCNFPBS83erdbZkPRJdllVE0x8edjrg"
+      }, {
+          "name": "PhoneGap ChildBrowser Plugin",
+          "url": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DVIwrMV25L8Q&sa=D&ust=1479720086796000&usg=AFQjCNEC7LDlK7bfZlgMMeyGduy-wB3JxA"
+      }, {
+          "name": "Getting Started with PhoneGap Part 3 of 3: ChldBrowser Plugin",
+          "url": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DVkxPx1IIrCk&sa=D&ust=1479720086797000&usg=AFQjCNEzu8rBmJAk-sUvIB-3W_W1Pvoh4w"
+      }, {
+          "name": "josn與jsonp解釋",
+          "url": "https://www.google.com/url?q=http://www.phonegap100.com/article-72-1.html&sa=D&ust=1479720086797000&usg=AFQjCNHrbJiOZmQsKocyIwap0AytIVmfMA"
+      }, {
+          "name": "推送機制\n                    \n                        IOS",
+          "url": "https://www.google.com/url?q=http://blog.sina.com.cn/s/blog_5c5d5cdf0101dvjy.html&sa=D&ust=1479720086798000&usg=AFQjCNERsjzbC-PLpnq6d8mNXKl1iRZR4A"
+      }, {
+          "name": "phonegap歷史",
+          "url": "https://www.google.com/url?q=http://labs.cross.hk/?p%3D1706&sa=D&ust=1479720086798000&usg=AFQjCNES3uHxxRy4PwEdsnPGsnxv-_09hQ"
+      }, {
+          "name": "fileopen",
+          "url": "https://www.google.com/url?q=http://www.yelanxiaoyu.com/app/android%25E5%25BC%2580%25E5%258F%2591/phonegap-%25E6%2596%2587%25E4%25BB%25B6%25E4%25B8%258B%25E8%25BD%25BD-%25E6%2589%2593%25E5%25BC%2580%25E9%2598%2585%25E8%25AF%25BB%25E5%25BC%2580%25E5%258F%2591%25E3%2580%2590andriod%25E3%2580%2591.html&sa=D&ust=1479720086799000&usg=AFQjCNEWdzZLoMqFL3sQwslma_g3yoBuNw"
+      }, {
+          "name": "HTML5 ROCK資源大全",
+          "url": "https://www.google.com/url?q=http://www.html5rocks.com/zh/resources&sa=D&ust=1479720086799000&usg=AFQjCNHDrFjuA-_rE11PpcroWIgbSdc7tA"
+      }]
+  }, {
+      "heading": "PhoneGap 開發輔助工具",
+      "list": [{
+          "name": "Remote Debugging Chrome on Android",
+          "url": "https://www.google.com/url?q=https://developers.google.com/chrome-developer-tools/docs/remote-debugging?hl%3Dzh-tw&sa=D&ust=1479720086801000&usg=AFQjCNEBj5VIgkL9foKI77EaE28mdX2L1w"
+      }, {
+          "name": "android icon location",
+          "url": "https://www.google.com/url?q=http://blogs.telerik.com/appbuilder/posts/14-01-02/adding-icons-and-splash-screens-to-your-phonegap-icenium-projects&sa=D&ust=1479720086802000&usg=AFQjCNExOtQiRsXeVc1ZKwKdKveANI3mTw"
+      }, {
+          "name": "phonegap application error the connection to the server was unsuccessful",
+          "url": "https://www.google.com/url?q=http://shirlly.iteye.com/blog/1885012&sa=D&ust=1479720086802000&usg=AFQjCNExS-9xEWzRlUbaBDsqb_yPoggK9w"
+      }]
+  }, {
+      "heading": "chrome開發人員工具",
+      "list": [{
+          "name": "code school 基礎檢測教學",
+          "url": "https://www.google.com/url?q=http://discover-devtools.codeschool.com/&sa=D&ust=1479720086803000&usg=AFQjCNFoKKSPXDFDeQV11yjbIarVmKD6dQ"
+      }, {
+          "name": "使用Chrome DevTools的Timeline和Profiles提高Web应用程序的性能",
+          "url": "https://www.google.com/url?q=http://www.oschina.net/translate/performance-optimisation-with-timeline-profiles&sa=D&ust=1479720086803000&usg=AFQjCNFOm0WQpbLgnckGW2Q4TaCOMNyd2w"
+      }, {
+          "name": "认识JS（javascript） profile工具",
+          "url": "https://www.google.com/url?q=http://blog.csdn.net/woailincon/article/details/10503869&sa=D&ust=1479720086804000&usg=AFQjCNEeAZGo2UmhRxZkIkN2-64_BEadmg"
+      }, {
+          "name": "超詳盡chrome各種技巧",
+          "url": "https://www.google.com/url?q=https://umaar.github.io/devtools-talk-aug-2014/assets/player/KeynoteDHTMLPlayer.html%230&sa=D&ust=1479720086804000&usg=AFQjCNGW8q7t_dr68qlHV8cF5_5cAOJZUg"
+      }, {
+          "name": "Making a Silky Smooth Web",
+          "url": "https://www.google.com/url?q=https://speakerdeck.com/paullewis/making-a-silky-smooth-web&sa=D&ust=1479720086805000&usg=AFQjCNHr6vqd2j7t7St_EDJ23ewJG5xbug"
+      }, {
+          "name": "60 FPS",
+          "url": "https://www.google.com/url?q=http://slides.com/cjies/deck-1%23/&sa=D&ust=1479720086805000&usg=AFQjCNFX72OU5XpUVOHqOfbn_Td4ph86BA"
+      }]
+  }, {
+      "heading": "gulp.js",
+      "list": [{
+          "name": "Gulp自動化開發流程 簡報",
+          "url": "https://www.google.com/url?q=https://www.slideshare.net/secret/Czte5UlbKx7uou&sa=D&ust=1479720086806000&usg=AFQjCNEA08rJ--OLnvikOXpEoFrA_Rl2XA"
+      }, {
+          "name": "打造gulp環境",
+          "url": "https://www.google.com/url?q=http://www.dbpoo.com/getting-started-with-gulp/&sa=D&ust=1479720086806000&usg=AFQjCNF-F2YHGAoJQ5r0HkZjCnT9iRK-BA"
+      }, {
+          "name": "gulp簡報",
+          "url": "https://www.google.com/url?q=http://www.slideshare.net/appleboy/automating-your-workflow-with-gulp?ref%3Dhttp://blog.wu-boy.com/2014/07/automating-your-workflow-with-gulp-js/?fb_action_ids%3D10152551749624250%26fb_action_types%3Dog.likes&sa=D&ust=1479720086807000&usg=AFQjCNE-FmwgXG4v3Jo743pfsiJ0tdrIqQ"
+      }, {
+          "name": "web server + livereload",
+          "url": "https://www.google.com/url?q=http://www.ofcss.com/2014/05/03/gulp-as-a-development-web-server-zh_cn.html&sa=D&ust=1479720086808000&usg=AFQjCNHG2tRmukpZl-5_BtLHm1kytzVE_w"
+      }, {
+          "name": "Gulp系列文章",
+          "url": "https://www.google.com/url?q=https://www.facebook.com/groups/358503154261390/permalink/620071768104526/&sa=D&ust=1479720086808000&usg=AFQjCNGVZ0S5W_cY_exPlRGpePa4WjuEUA"
+      }, {
+          "name": "gulp cheatsheet",
+          "url": "https://www.google.com/url?q=https://github.com/osscafe/gulp-cheatsheet&sa=D&ust=1479720086808000&usg=AFQjCNHbOVcAsfQJh9wNOPi6aMMo2X1_XQ"
+      }]
+  }, {
+      "heading": "hybrid app設計",
+      "list": [{
+          "name": "Tips & Tricks Learned Releasing an Hybrid App Using Steroids.js",
+          "url": "https://www.google.com/url?q=http://marcgg.com/blog/2014/04/09/phonegap-steroids-hybrid-native-app-tips/&sa=D&ust=1479720086809000&usg=AFQjCNHAE61XQE83wffj89uagjte31l8KA"
+      }]
+  }, {
+      "heading": "IOS 開發",
+      "list": [{
+          "name": "IOS申請公司開發者帳號",
+          "url": "https://www.google.com/url?q=http://blog.changyy.org/2012/09/ios-developer-program-company.html&sa=D&ust=1479720086810000&usg=AFQjCNEIjfH079biXiFiLzQKTqY1nzwHxQ"
+      }]
+  }, {
+      "heading": "JS conf簡報",
+      "list": [{
+          "name": "JSDC 2014 hackpad",
+          "url": "https://www.google.com/url?q=https://hackpad.com/JSDC-2014-DAY1--KXpB9VI4s1X&sa=D&ust=1479720086811000&usg=AFQjCNF5wAC6EEpTSz159Wa9Ms7A1a0FIQ"
+      }]
+  }, {
+      "heading": "線上服務工具",
+      "list": [{
+          "name": "webpagetest(檢測網站效能)",
+          "url": "https://www.google.com/url?q=http://www.webpagetest.org/&sa=D&ust=1479720086812000&usg=AFQjCNFPts4qnn36ShYeq_eC-OC79jM-kA"
+      }, {
+          "name": "json線上網路服務",
+          "url": "https://www.google.com/url?q=https://www.facebook.com/groups/358503154261390/permalink/625423194236050/&sa=D&ust=1479720086812000&usg=AFQjCNG04A7AbQSBmkzxHH8s3J8WHeqOnQ"
+      }]
+  }, {
+      "heading": "D3.js",
+      "list": [{
+          "name": "D3.js",
+          "url": "https://www.google.com/url?q=http://d3js.org/&sa=D&ust=1479720086813000&usg=AFQjCNEd-sXyJV89JPII82P8oqacm-q3SQ"
+      }, {
+          "name": "D3教學資源",
+          "url": "https://www.google.com/url?q=https://www.dashingd3js.com/&sa=D&ust=1479720086813000&usg=AFQjCNFqsqw2YObjVirUtTyJwJDjir0exQ"
+      }, {
+          "name": "D3.js簡報",
+          "url": "https://www.google.com/url?q=http://www.slideshare.net/oxxostudio/d3js-59123109&sa=D&ust=1479720086814000&usg=AFQjCNFuKyBcQFySk8o8o2-23dpnvez3JA"
+      }, {
+          "name": "國內範例資源",
+          "url": "https://www.google.com/url?q=http://muyueh.com/seeall/&sa=D&ust=1479720086814000&usg=AFQjCNGI8_OlpfnY4jgl8jE0qNEUAsF8Dw"
+      }, {
+          "name": "d3.img",
+          "url": "https://www.google.com/url?q=https://groups.google.com/forum/%23!topic/d3-js/1P5IphE319g&sa=D&ust=1479720086815000&usg=AFQjCNFTeWYRZev1Wo8lu6_Z0QHhT1artw"
+      }, {
+          "name": "d3 json",
+          "url": "https://www.google.com/url?q=https://www.dashingd3js.com/using-json-to-simplify-code&sa=D&ust=1479720086815000&usg=AFQjCNHbvdiebSsyIVCl64OYBzhAz003ig"
+      }, {
+          "name": "D3 API",
+          "url": "https://www.google.com/url?q=https://github.com/mbostock/d3/wiki/Api%25E5%258F%2582%25E8%2580%2583&sa=D&ust=1479720086816000&usg=AFQjCNEJtW3o6wh6Tt3vs3W9qtKe36My_w"
+      }, {
+          "name": "撈google雲端資料",
+          "url": "https://www.google.com/url?q=http://jsbin.com/kibufo/1/edit&sa=D&ust=1479720086816000&usg=AFQjCNExwgNEsD5xFtqrGEb4sywtLyktog"
+      }]
+  }, {
+      "heading": "SVG",
+      "list": [{
+          "name": "SVG Tutorial",
+          "url": "https://www.google.com/url?q=http://tutorials.jenkov.com/svg/index.html&sa=D&ust=1479720086817000&usg=AFQjCNF7NuRH9aFkOg7ttsoIurTieFTzwA"
+      }, {
+          "name": "SVG 簡報",
+          "url": "https://www.google.com/url?q=https://docs.google.com/presentation/d/1CNQLbqC0krocy_fZrM5fZ-YmQ2JgEADRh3qR6RbOOGk/preview%23slide%3Did.p&sa=D&ust=1479720086817000&usg=AFQjCNGjXICSOen_W_txDyxv36HBRNCAKQ"
+      }, {
+          "name": "SVG簡介",
+          "url": "https://www.google.com/url?q=http://tutorials.jenkov.com/svg/index.html&sa=D&ust=1479720086818000&usg=AFQjCNEYs4092IrEPtXf2vEdbS9nQ6SxVQ"
+      }]
+  }, {
+      "heading": "有趣網站分享",
+      "list": [{
+          "name": "canvas  zoom in",
+          "url": "https://www.google.com/url?q=http://zoomquilt.org/&sa=D&ust=1479720086818000&usg=AFQjCNHKQK1uyRK5BlSYE1IP75xFQGmDgQ"
+      }, {
+          "name": "canvas滾動視差",
+          "url": "https://www.google.com/url?q=http://www.evastylecard.com&sa=D&ust=1479720086819000&usg=AFQjCNH1p6Gt70ghDQTgvoUsjba0SJ7kXg"
+      }, {
+          "name": "滾動視差",
+          "url": "https://www.google.com/url?q=http://www.fontwalk.de/&sa=D&ust=1479720086819000&usg=AFQjCNEkdkUZZHe0EmAAQcvCF_EHCXY6Hw"
+      }, {
+          "name": "滾動視差2",
+          "url": "https://www.google.com/url?q=https://medium.com/p/bda091607e6c&sa=D&ust=1479720086820000&usg=AFQjCNE_F_w7Ai68mtpXthl2URwas-vdqQ"
+      }, {
+          "name": "SUSY RWD",
+          "url": "https://www.google.com/url?q=https://medium.com/p/bda091607e6c&sa=D&ust=1479720086821000&usg=AFQjCNFcOgpzs3K-IMO5tVANsCB8FvzWzQ"
+      }, {
+          "name": "chrome 行動裝置遊戲",
+          "url": "https://www.google.com/url?q=http://chrome.com/supersyncsports/%23/en-US/m/nhuhw&sa=D&ust=1479720086821000&usg=AFQjCNF4zgbnBU4XEPoVwWJGPJwmMhzLog"
+      }, {
+          "name": "webgl game",
+          "url": "https://www.google.com/url?q=http://duckshoot.toasterltd.com/client/&sa=D&ust=1479720086821000&usg=AFQjCNE5CDVXUalIO4Tf4s9aGKKJJZoaZg"
+      }]
+  }, {
+      "heading": "內容產生器",
+      "list": [{
+          "name": "圖片產生器",
+          "url": "https://www.google.com/url?q=http://fakeimg.pl/&sa=D&ust=1479720086822000&usg=AFQjCNEZ0uAPT9ior8ojk9DGQA1VJv13ag"
+      }]
+  }, {
+      "heading": "工程師心態分享",
+      "list": [{
+          "name": "為什麼成為一名工程師這麼難？從程式新手到準工程師的必經之路",
+          "url": "https://www.google.com/url?q=http://www.storm.mg/lifestyle/45098&sa=D&ust=1479720086823000&usg=AFQjCNEA6boOqTudxGiCO_1rca-aAlZWYw"
+      }, {
+          "name": "為什麼\n                    \n                        軟體工程師選擇在半夜工作？Geek 的生產力曲線解密",
+          "url": "https://www.google.com/url?q=https://medium.com/p/bda091607e6c&sa=D&ust=1479720086824000&usg=AFQjCNFY2gSbqaZ8aAPZegFD9js7LH5m2w"
+      }, {
+          "name": "五件在我靠程式吃飯之前就該知道的事",
+          "url": "https://www.google.com/url?q=http://www.inside.com.tw/2013/11/15/4-things-i-wish-i-would-have-known-when-i-started-my-software-development-career&sa=D&ust=1479720086825000&usg=AFQjCNHDh_es59Fy40PdNxWRJAXpz2eIxA"
+      }, {
+          "name": "如何養成支撐網路巨量交易的伺服器艦隊",
+          "url": "https://www.google.com/url?q=http://yowureport.com/?p%3D8944&sa=D&ust=1479720086825000&usg=AFQjCNFRJ-UgASyC4GOE2mWjnCAmv65SiQ"
+      }, {
+          "name": "为什么你有10年经验，但成不了专家？",
+          "url": "https://www.google.com/url?q=http://mp.weixin.qq.com/s?__biz%3DMjM5OTM5OTAyMQ%253D%253D%26mid%3D404232487%26idx%3D1%26sn%3Da4b3681b61110f01f52fe6f5774520db%26scene%3D2%26srcid%3D0224ldH4ePed6DyFP0aa5a7W%26from%3Dtimeline%26isappinstalled%3D0%23wechat_redirect&sa=D&ust=1479720086826000&usg=AFQjCNH133ERA4gZtXpX7sA85F6RJpOM1Q"
+      }, {
+          "name": "有哪些可以應用到每日生活的省時妙招呢？",
+          "url": "https://www.google.com/url?q=http://blog.littlelin.info/posts/2013/12/04/quora-translation-what-are-the-best-day-to-day-time-saving-hacks&sa=D&ust=1479720086826000&usg=AFQjCNEw7wHbVxwbFn6VydklIuToQ7AHdQ"
+      }, {
+          "name": "學習前端流程心法",
+          "url": "https://www.google.com/url?q=http://www.zhangxinxu.com/wordpress/2014/01/pointer-events-none-avoiding-unnecessary-paints/&sa=D&ust=1479720086827000&usg=AFQjCNGJBnhYemKgMQTbLukitmujDuxZTw"
+      }, {
+          "name": "那些在NTUST.CC背後。你所不知道的故事",
+          "url": "https://www.google.com/url?q=http://www.slideshare.net/yfxie/ntustcc&sa=D&ust=1479720086827000&usg=AFQjCNGkcCCb2judQ2RKEOtOwHcyFw07Jg"
+      }, {
+          "name": "為什麽你睡了11個小時仍然覺得疲累？",
+          "url": "https://www.google.com/url?q=http://www.monsterparent.com/%25E7%2582%25BA%25E4%25BB%2580%25E9%25BA%25BD%25E4%25BD%25A0%25E7%259D%25A1%25E4%25BA%258611%25E5%2580%258B%25E5%25B0%258F%25E6%2599%2582%25E4%25BB%258D%25E7%2584%25B6%25E8%25A6%25BA%25E5%25BE%2597%25E7%2596%25B2%25E7%25B4%25AF%25EF%25BC%259F/&sa=D&ust=1479720086828000&usg=AFQjCNFYBnhkCa41_p6_p7TGWtRH5S5drQ"
+      }, {
+          "name": "STARTUP 2.0工程師創業手冊",
+          "url": "https://www.google.com/url?q=http://startup20.files.wordpress.com/2014/03/startup-2-0e5b7a5e7a88be5b8abe589b5e6a5ade6898be5868a-v5.pdf&sa=D&ust=1479720086828000&usg=AFQjCNHuJewMqqgwY8qLHdz1xmKa5K74yA"
+      }, {
+          "name": "免费的编程中文书籍索引",
+          "url": "https://www.google.com/url?q=https://github.com/justjavac/free-programming-books-zh_CN?utm_source%3Dexplore-newsletter%26utm_medium%3Demail%26utm_term%3Ddaily%26utm_campaign%3Dexplore-email%23web%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8&sa=D&ust=1479720086829000&usg=AFQjCNHZbY7KN2_f8I_rqgHZFKQRSgEwmQ"
+      }]
+  }, {
+      "heading": "瀏覽器原理",
+      "list": [{
+          "name": "瀏覽器工作原理",
+          "url": "https://www.google.com/url?q=http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/&sa=D&ust=1479720086830000&usg=AFQjCNGUMUEqC0AhX_cVR-JZtUEFyglFRA"
+      }]
+  }, {
+      "heading": "RWD網站分類",
+      "list": [{
+          "name": "研討會",
+          "url": "https://www.google.com/url?q=http://thewebdesignersideabook.com/mobile/qr/event-sites/&sa=D&ust=1479720086831000&usg=AFQjCNFsd27r8qdWmX5RJKYjy6hNTnEi8Q"
+      }, {
+          "name": "作品集",
+          "url": "https://www.google.com/url?q=http://thewebdesignersideabook.com/mobile/qr/portfolio/&sa=D&ust=1479720086831000&usg=AFQjCNGNsMk3RVCqJCMvGOk-yu1Z_Ap64A"
+      }, {
+          "name": "個人網站",
+          "url": "https://www.google.com/url?q=http://thewebdesignersideabook.com/mobile/qr/personal-landing-page/&sa=D&ust=1479720086832000&usg=AFQjCNGpwzr2pOVZVh2up2vc4802ljttIQ"
+      }, {
+          "name": "設計公司網站",
+          "url": "https://www.google.com/url?q=http://thewebdesignersideabook.com/mobile/qr/agencies/&sa=D&ust=1479720086832000&usg=AFQjCNFLMFbOZ4NH5VvA2r31V44ArIr8Ag"
+      }, {
+          "name": "手機APP網站",
+          "url": "https://www.google.com/url?q=http://thewebdesignersideabook.com/mobile/qr/mobile-app-sites/&sa=D&ust=1479720086832000&usg=AFQjCNHNvbmmKpDX70EVYsGC5Ga1BbEovw"
+      }, {
+          "name": "產品網站",
+          "url": "https://www.google.com/url?q=http://thewebdesignersideabook.com/mobile/qr/product-sites/&sa=D&ust=1479720086833000&usg=AFQjCNGzdf81i6UpH_CjmN8b3ihaWY_J2g"
+      }, {
+          "name": "行動電子商務網站",
+          "url": "https://www.google.com/url?q=http://thewebdesignersideabook.com/mobile/qr/ecommerce/&sa=D&ust=1479720086833000&usg=AFQjCNEfVIPWH6yXpr6Ng25KZ_0bo2YB5g"
+      }, {
+          "name": "新聞網站",
+          "url": "https://www.google.com/url?q=http://thewebdesignersideabook.com/mobile/qr/news-sites/&sa=D&ust=1479720086834000&usg=AFQjCNHBlQkfEk5uFx4y7578VNBJMEFngQ"
+      }, {
+          "name": "大學網站",
+          "url": "https://www.google.com/url?q=http://thewebdesignersideabook.com/mobile/qr/university-sites/&sa=D&ust=1479720086834000&usg=AFQjCNHF4H_hAuFLzawEIQZFX_Ubi7wKUQ"
+      }, {
+          "name": "BLOG",
+          "url": "https://www.google.com/url?q=http://thewebdesignersideabook.com/mobile/qr/blogs/&sa=D&ust=1479720086835000&usg=AFQjCNE77Dq331U_I6Ehyhi9uSNeU1XIwA"
+      }]
     }
   ]
 }
