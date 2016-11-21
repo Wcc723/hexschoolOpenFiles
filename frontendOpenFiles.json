@@ -122,37 +122,83 @@
       ]
     },
     {
-      "heading": "",
+      "heading": "初學者專區",
       "background": "",
       "list": [
         {
-          "name": "",
-          "url": "",
+          "name": "學css前要準備什麼? 作者：muki wu",
+          "url": "http://blog.mukispace.com/prepare-for-learning-css/",
           "tag": []
         },
         {
-          "name": "",
-          "url": "",
+          "name": "從 HTML + CSS開始學起",
+          "url": "http://www.thewebpractice.com/w3c/Style/Examples/011/firstcss-tr.html",
           "tag": []
         },
         {
-          "name": "",
-          "url": "",
+          "name": "HTML、CSS、Javascript基礎教學 作者：josephj",
+          "url": "http://f2eclass.com/",
           "tag": []
         },
         {
-          "name": "",
-          "url": "",
+          "name": "從軟體工程師角度看CSS",
+          "url": "http://www.youtube.com/watch?v=dEjvROBP3tA",
           "tag": []
         },
         {
-          "name": "",
-          "url": "",
+          "name": "CSS國外觀念教學影片",
+          "url": "http://cssxcountry.codeschool.com/levels/1",
           "tag": []
         },
         {
-          "name": "",
-          "url": "",
+          "name": "前端小字典",
+          "url": "http://ithelp.ithome.com.tw/question/10161844",
+          "tag": []
+        },
+        {
+          "name": "新手在社群上發問時所需注意事項",
+          "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+          "tag": []
+        }
+      ]
+    },
+    {
+      "heading": "網頁排版教學",
+      "background": "",
+      "list": [
+        {
+          "name": "學習 CSS 版面配置",
+          "url": "https://doggy8088.github.io/csslayoutsite/",
+          "tag": []
+        },
+        {
+          "name": "自學網頁排版流程",
+          "url": "https://www.facebook.com/groups/358503154261390/permalink/514294918682212/?stream_ref=2",
+          "tag": []
+        },
+        {
+          "name": "CSS基礎技巧",
+          "url": "http://blog.xdite.net/posts/2012/01/29/css-tricks-summary",
+          "tag": []
+        },
+        {
+          "name": "Web Design note with XHTML/CSS　作者：閃光洽",
+          "url": "http://blog.hinablue.me/entry/layout-2012-web-design-layout-part-1/",
+          "tag": []
+        },
+        {
+          "name": "HTML、CSS國外清楚影片教學(code school)",
+          "url": "https://www.codeschool.com/paths/html-css",
+          "tag": []
+        },
+        {
+          "name": "資策會學習網頁設計評價",
+          "url": "https://www.facebook.com/groups/358503154261390/permalink/515953435183027/?stream_ref=2",
+          "tag": []
+        },
+        {
+          "name": "設計圖應該跟Web實作是一致的",
+          "url": "https://docs.google.com/presentation/d/1u9w2zsrItuCiMjyUDmn0r5VpdJNx3OaRRQNhYCw4kPg/edit#slide=id.p",
           "tag": []
         }
       ]
