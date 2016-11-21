@@ -6,7 +6,8 @@
       "list": [
         {
           "name": "如何自學前端開發",
-          "url": "https://www.facebook.com/groups/358503154261390/permalink/696992570412445/"
+          "url": "https://www.facebook.com/groups/358503154261390/permalink/696992570412445/",
+          "tag": ["新手","自學"]
         },
         {
           "name": "【六角學院】如何協助你/妳成為前端工程師/前端設計師",
@@ -82,6 +83,18 @@
           "name": "總是不確定自己要學到什麼程度才可以達業界水準該怎麼辦",
           "url": "https://www.google.com/url?q=https://www.facebook.com/groups/358503154261390/permalink/971308589647507/?comment_id%3D971388099639556%26comment_tracking%3D%257B%2522tn%2522%253A%2522R%2522%257D&sa=D&ust=1479551440657000&usg=AFQjCNEK23qaub8-NIbdtEiY9R5IBgHvbw"
         }
+      ]
+    },
+    {
+      "heading": "",
+      "background": "",
+      "list": [
+        {
+          "name": "",
+          "url": "",
+          "tag": ["新手","自學"]
+        },
+        
       ]
     }
   ]
