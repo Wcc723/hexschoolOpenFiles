@@ -118,7 +118,7 @@
           "name": "codecademy",
           "url": "http://www.codecademy.com/learn",
           "tag": []
-        },
+        }
       ]
     },
     {
@@ -154,7 +154,7 @@
           "name": "",
           "url": "",
           "tag": []
-        },
+        }
       ]
     }
   ]
